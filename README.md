@@ -151,7 +151,7 @@ DeFi Selenium Bot is the ultimate tool for optimizing profits and minimizing ris
 Stay up-to-date with the latest developments and join our community of DeFi enthusiasts.
 
 [Discord](Soon)
-[Telegram](t.me/seleniumdefitrade)
+[Telegram](https://t.me/SolyumDefi_bot)
 [Twitter](Soon)
 [Medium](Soon)
 [Youtube](Soon)
