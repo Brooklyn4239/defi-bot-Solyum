@@ -28,7 +28,7 @@ DeFi STS Bot is an innovative solution designed to optimize crypto assets and ma
 
 User-friendly interface that doesn't require in-depth knowledge of DeFi.
 
-[See our interface in action](Soon)
+[See our interface in action](https://imgur.com/a/9Q5Jng0)
 
 ### Automated Strategies
 
